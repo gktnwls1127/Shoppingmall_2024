@@ -1,12 +1,13 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
+import { AiOutlineSmile } from 'react-icons/ai'
 
-const index = () => {
+const Footer = () => {
   return (
-    <div>
-      index
+    <div className='flex h-20 text-lg justify-center items-center'>
+      All rights revered.<AiOutlineSmile />
     </div>
   )
 }
 
-export default index
+export default Footer

@@ -1,12 +1,12 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 
-const index = () => {
+const Navbar = () => {
   return (
     <div>
-      index
+      Navbar
     </div>
   )
 }
 
-export default index
+export default Navbar
